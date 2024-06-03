@@ -5,10 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "june.lee.love",
+      "package_name": "june.lee.lego",
       "sha256_cert_fingerprints": [
         "44:B4:7F:F3:90:43:2F:FB:F7:CE:94:E0:37:BF:1B:7E:8B:57:78:1A:31:A1:DC:13:8A:46:B2:A2:25:87:6F:76",
-        "D5:09:3F:C9:74:39:83:99:E1:17:A1:32:36:8E:B9:54:42:A8:BB:03:0B:1A:B4:A7:3E:3B:8E:B9:3C:41:E7:96"
+        "D5:09:3F:C9:74:39:83:99:E1:17:A1:32:36:8E:B9:54:42:A8:BB:03:0B:1A:B4:A7:3E:3B:8E:B9:3C:41:E7:96",
       ]
     }
   }
