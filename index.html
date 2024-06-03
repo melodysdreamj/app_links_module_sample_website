@@ -17,20 +17,18 @@
     <a id="scheme-link" href="#">Open App Using Scheme</a>
     <br />
     <a id="https-link" href="#">Open App Using Url</a>
-    <a id="http-link" href="#">Open App Using http Url</a>
 </main>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         const currentParams = window.location.search;
-        
+
         const schemeLink = document.getElementById("scheme-link");
         const httpsLink = document.getElementById("https-link");
         const httpLink = document.getElementById("http-link");
 
         schemeLink.href = `sample://june.lee.lego${currentParams}`;
         httpsLink.href = `https://deeplinktest.junestory.com${currentParams}`;
-        httpLink.href = `http://deeplinktest.junestory.com${currentParams}`;
     });
 </script>
 </body>
